@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "Your Extension",
+  "name": "GitHub Reverse Branches",
   "version": "1.0.0",
-  "description": "Extension Description",
+  "description": "Allows to easilt reverse github branches when creating a pull request",
+  "permissions": ["tabs"],
   "action": {
     "default_icon": "assets/icon.png",
     "default_popup": "popup.html"
